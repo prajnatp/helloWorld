@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- Namitha -->
+    <string name="hint_name">Enter your Name</string>
+    <string name="btn_send">Send</string>
+    <string name="hint_locaiton">Enter Location</string>
+</resources>
